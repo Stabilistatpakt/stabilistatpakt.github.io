@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'JetBrainsMono Nerd Font';
+    src: url('fonts/JetBrainsMonoNerdFont-Regular.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #11111b;
+    color: #a6e3a1;
+    font-family: 'JetBrainsMono Nerd Font', monospace;
+    flex-direction: column; /* Ред по вертикали */
+}
+
+/* Велики текст */
+.large-text {
+    font-size: 70px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: text-decoration 0.3s ease; /* Анимација */
+}
+
+/* Мали текст */
+.small-text {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px; /* Простор између великог и малог текста */
+}
+
+
+/* Ефекат када миш пређе преко текста */
+.large-text:hover {
+    text-decoration: underline;
+}

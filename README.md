@@ -1,1 +1,2 @@
-# stabilistatpakt.github.io
+# Стабилистички пакт
+### (stabilistatpakt)
