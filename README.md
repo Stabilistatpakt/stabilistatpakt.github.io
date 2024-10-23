@@ -1,2 +1,2 @@
-# <p style="align:center">Стабилистички пакт<p>
-### <p style="align:center">(stabilistatpakt)<p>
+# <p align="center">Стабилистички пакт<p>
+### <p align="center">(stabilistatpakt)<p>
